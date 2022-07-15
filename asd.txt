@@ -1,15 +1,15 @@
 zxc
 zml
 xzcmlcmz
-<<<<<<< HEAD
+
 sdfsdfsdkfj
 
 sdkfsdfjlsdfj
 skdfjsdflsdfk
 kdfjsldfj
-=======
+
 dsadsa
 cxzczx
 cxzcxz
 cxzczx
->>>>>>> a872b956ec86f316b3c10d293e2993d56fd2fbe5
+
