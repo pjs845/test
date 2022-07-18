@@ -11,7 +11,7 @@ y = [101,91,81,61,61,56,61,66,71,71,76,77,79,80,91,100,100,101]
 
 a = np.polyfit(x, y, 3) # 3 => 3차식으로 fiting한 결과
 mymodel = np.poly1d(a)
-
+print("mymodel", mymodel)
 myline = np.linspace(2, 23, 200) #(시작x값, 끝x값, 그 사이의 점 갯수)
 
 plt.scatter(x, y)
